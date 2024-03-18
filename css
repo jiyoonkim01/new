@@ -1,0 +1,208 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Poppins, 'Noto Sans KR', sans-serif;
+  margin: 0;
+}
+
+.backgroundimg {
+  background-image: url('C:\Users\SAMSUNG\Desktop\imgfile\love.avif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.chain {
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+  padding: 12px 0 0 40px;
+}
+
+.it {
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.first {
+  width: 720px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.world {
+  font-size: 20px;
+  font-weight: 500;
+  color: #8287a4;
+  padding: 80px 0 12px 0;
+}
+
+.exchange {
+  font-size: 56px;
+  font-weight: 700;
+  color: #ffffff;
+  padding: 12px 0 14px 0;
+}
+
+.a2014 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #8287a4;
+  padding: 14px 0 280px 0;
+}
+
+.second {
+  width: 720px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 74px 0 64px 0;
+}
+
+.chainit {
+  font-size: 36px;
+  font-weight: 700;
+  color: #161346;
+  padding-bottom: 42px;
+}
+
+.second img {
+  width: 720px;
+  border-radius: 24px;
+}
+
+.b2014 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #4c497b;
+  padding: 32px 0;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  line-height: 23px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background: #413c91;
+  text-align: center;
+  margin: 32px 0;
+  padding: 16px 32px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.third {
+  background-color: #f1f4fa;
+}
+
+.thirdblock {
+  width: 720px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 74px 0 64px 0;
+}
+
+.chainify {
+  font-size: 36px;
+  font-weight: 700;
+  color: #161346;
+  padding-bottom: 42px;
+}
+
+.secondimg {
+  width: 720px;
+  border-radius: 24px;
+}
+
+.content {
+  font-size: 16px;
+  font-weight: 500;
+  color: #4c497b;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.fourth {
+  width: 720px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 74px 0 64px 0;
+}
+
+.nano {
+  font-size: 36px;
+  font-weight: 700;
+  color: #161346;
+  padding-bottom: 42px;
+}
+
+.thirdimg {
+  width: 720px;
+  border-radius: 24px;
+}
+
+.content2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #4c497b;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.fifth {
+  background-color: #161346;
+}
+
+.content3 {
+  width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.careers {
+  font-size: 32px;
+  font-weight: 500;
+  color: #ffffff;
+  padding-bottom: 8px;
+}
+
+.block {
+  font-size: 16px;
+  font-weight: 400;
+  color: #8287a4;
+}
+
+.button2 {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #413c91;
+  text-align: center;
+  margin: 32px 0;
+  padding: 16px 32px;
+  border-radius: 9999px;
+  text-decoration: none;
+}
+
+.last {
+  background-color: #120f3f;
+}
+
+.content4 {
+  width: 720px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 32px 0;
+  font-size: 16px;
+  font-weight: 400;
+  color: #d9d9d9;
+}
